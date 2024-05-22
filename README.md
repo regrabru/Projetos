@@ -8,5 +8,6 @@ b) Texto persuasivo.
 
 c) Comparativo de planos.
 
+![Descrição da imagem](Projeto.PNG)
 
 
