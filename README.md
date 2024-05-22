@@ -1,0 +1,12 @@
+# Objetivo
+
+Você deve criar um layout web para uma página de precificação contendo os seguintes elementos:
+
+a) O cabeçalho do site.
+
+b) Texto persuasivo.
+
+c) Comparativo de planos.
+
+
+
