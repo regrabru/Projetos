@@ -1,4 +1,4 @@
-<h1 align="center"> # Projetos Acadêmicos e Pessoais </h1>
+<h1 align="center"> Projetos Acadêmicos e Pessoais </h1>
 <h3 align="center"> Bem-vindo(a) ao meu GitHub! 👋 </h3>
 
 
